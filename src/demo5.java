@@ -19,8 +19,6 @@ public static int dayOfYear(int month, int dayOfMonth, int year) {
         dayOfMonth += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30;
     } else if (month == 11) {
         dayOfMonth += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31;
-    } else if (month == 12) {
-        dayOfMonth += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 31;
-    }
+    } 
     return dayOfMonth;
 }
