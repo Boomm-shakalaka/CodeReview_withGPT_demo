@@ -1,0 +1,24 @@
+{
+  "name": "OpenAI Code Review",
+  "description": "A platform for code review powered by OpenAI",
+  "version": "1.0",
+  "contributors": [
+    {
+      "name": "User1",
+      "role": "Developer"
+    },
+    {
+      "name": "User2",
+      "role": "Tester"
+    },
+    {
+      "name": "User3",
+      "role": "Reviewer"
+    }
+  ],
+  "features": [
+    "Submit code for review",
+    "Provide feedback on code submissions",
+    "Track code review history"
+  ]
+}
